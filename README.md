@@ -126,7 +126,7 @@ curl/PowerShell): http://localhost:8000/docs
 - [x] Step 1 — Exam/Class Selection & Upload
 - [x] Step 2 — Extract Text
 - [x] Step 3 — LLM-Based Question Structuring
-- [ ] Step 4 — Test Configuration & Assembly
+- [x] Step 4 — Test Configuration & Assembly
 - [ ] Step 5 — Timed Test-Taking
 - [ ] Step 6 — Auto-Grading
 - [ ] Step 7 — Results & Analytics
